@@ -74,3 +74,4 @@
     - 협업 시 적극적인 커뮤니케이션 유지  
 
 ---
+![Image](https://github.com/user-attachments/assets/db4a9f48-326f-43a1-a5b9-eb4496e72190)
