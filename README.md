@@ -43,7 +43,7 @@
 | 이름 | 역할 | 주요 업무 | 주요 기술 | GitHub 프로필 |
 |------|------|----------|----------|------------|
 | **김다운** | 팀장 | 일정 관리, PLC 회로 설계 및 프로그래밍 | ![PLC](https://img.shields.io/badge/PLC-XG5000-blue) ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/dawoonykim) |
-| **유승태** | 팀원 | 제어 회로 설계 및 프로그램 작성 | ![PLC](https://img.shields.io/badge/PLC-%E2%9C%94-blue) ![HMI](https://img.shields.io/badge/HMI-%E2%9C%94-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Yoo-Seung-Tae) |
+| **유승태** | 팀원 | 제어 회로 설계 및 프로그램 작성 | ![PLC](https://img.shields.io/badge/PLC-XG5000-blue) ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Yoo-Seung-Tae) |
 | **이경준** | 팀원 | HMI 화면 설계 및 이벤트 처리 로직 구현 | ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/KYEONGJUN-LEE) |
 | **이혜린** | 팀원 | HMI 보조 작업 및 발표 자료 제작 | ![HMI](https://img.shields.io/badge/HMI-XP--Builder-lightgrey) | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/hyerin00) |
 ---
