@@ -71,7 +71,10 @@
 - **팀 규칙**
     - 모든 진행 사항을 Notion에 기록  
     - 출석을 지키되, 사전에 협의 후 유연한 일정 조정 가능  
-    - 협업 시 적극적인 커뮤니케이션 유지  
-
+    - 협업 시 적극적인 커뮤니케이션 유지
+---
+## 🏆 수상 내역
+-  PLC&HMI 팀 프로젝트 최우수상
+  <img src="https://raw.githubusercontent.com/ProjectPLC/PLC_ABC_Logistics/main/PLC&HMI_award.png" width="600">
 ---
 ![Image](https://github.com/user-attachments/assets/db4a9f48-326f-43a1-a5b9-eb4496e72190)
